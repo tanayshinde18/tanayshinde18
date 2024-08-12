@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanayshinde18
 - 👀 I’m interested in Frontend Development, Data Analytics, DSA ,Graphics Designing
-- 🌱 I’m currently learning Data Analytics and DSA
+- 🌱 I’m currently learning ReactJS Data Analytics and DSA
 - 📫 How to reach me => email me at :-tanayshinde1820@gmail.com
 
 
